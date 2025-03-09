@@ -99,6 +99,7 @@ header ul a{
 }
 
 .blackhole-box{
+    /* z-index: -1; */
     position: absolute;
     top: 0;
     width: 100%;
@@ -190,6 +191,7 @@ header ul a{
 
 .hero-vid-box video{
     height: 900px;
+    mix-blend-mode: lighten;
 }
 
 /* Scroll-down button */
